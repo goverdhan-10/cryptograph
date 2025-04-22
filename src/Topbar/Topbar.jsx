@@ -15,7 +15,7 @@ const Topbar = () => {
     <div className="bg-gray-800 text-white p-4 relative">
       <div className="flex space-x-8 items-center">
         <div className='text-2xl font-bold flex items-center space-x-2'>
-            KoinX</div>
+            CryptoX</div>
         {sections.map((section) => (
           <div
             key={section.id}
